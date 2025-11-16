@@ -34,9 +34,10 @@ body{
     display: flex;
     flex-direction: column;
     padding: 15px;
-    gap: 30px;
+    gap: 20px;
     text-align: center;
     align-items: center;
+    justify-content: end;
 }
 
 .qr img{
